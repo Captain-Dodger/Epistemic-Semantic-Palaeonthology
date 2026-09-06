@@ -1,0 +1,17 @@
+interface:
+  display_name: epistemic semantic paleontology
+  short_description: Reconstruct the historical evolution of a word as a provenance-aware
+    map of changing meanings, concepts, cultural pressures, contact surfaces, and
+    evidence. Use for deep etymology, Begriffsgeschichte, semantic change, historical
+    meaning maps, language-contact analysis, or questions like “what did this word
+    once mean and what world made that meaning stable?”. Do not use for simple dictionary
+    definitions, quick translations, or unsupported cultural storytelling.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
